@@ -7,7 +7,7 @@ Alphabet Soup, a nonprofit organization, seeks to enhance its funding process by
 Project Structure
 
 1. Data Preprocessing
-2. 
+   
 The data used in this project consists of over 34,000 organizations that have received funding from Alphabet Soup over the years. The dataset includes several columns that capture metadata about each organization, such as:
 
 EIN and NAME: Identification columns (removed during preprocessing).
